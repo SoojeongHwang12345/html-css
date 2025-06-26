@@ -1,0 +1,32 @@
+.circle {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.a {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  border-radius: 9999px;
+}
+
+.txt {
+  display: flex;
+  flex-direction: row;
+  margin: 220px;
+}
+
+.friends {
+  background-color: aqua;
+}
+
+.sports {
+  background-color: rgb(64, 54, 99);
+}
+
+.design {
+  background-color: rgb(120, 74, 83);
+}

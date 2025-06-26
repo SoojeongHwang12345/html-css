@@ -1,0 +1,30 @@
+.card {
+  width: 300px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.chair {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.text1 {
+  font-size: 2rem;
+  font-weight: 900;
+}
+
+.text2 {
+  font-size: 2rem;
+  font-weight: 500;
+  color: green;
+}
+
+.arrow {
+  border: 1px solid #000;
+  border-radius: 4px;
+  padding: 2px;
+}
