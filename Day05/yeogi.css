@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.card {
+  width: 100vw;
+  height: 100vh;
+}
+
+.photo {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
