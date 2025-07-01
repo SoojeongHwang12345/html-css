@@ -1,0 +1,44 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  gap: 5px;
+}
+.info {
+  color: gray;
+  margin-bottom: 20px;
+}
+
+.box {
+  width: 200px;
+  height: 300px;
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+}
+
+.jeju {
+  background-image: url("jeju.jpg");
+  background-size: cover;
+}
+
+.incheon {
+  background-image: url("incheon.jpg");
+  background-size: cover;
+}
+
+.gunsan {
+  background-image: url("gunsan.jpeg");
+  background-size: cover;
+}
+
+.seoul {
+  background-image: url("seoul.jpeg");
+  background-size: cover;
+}
+
+.head {
+  opacity: 50%;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
